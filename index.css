@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./308f2fd627c36e007527bc50337f6c7b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#registration-form{
+            margin: 35px auto;
+            display: flex;
+            position: relative;
+            width:700px;
+            background-color: black;
+            padding: 10px;
+            border: 5px solid rgb(46, 43, 43);
+            height: auto;
+            box-shadow: 5px 5px 5px 5px whitesmoke;
+            color:white;
+            border-radius: 20px;
+            
+}
